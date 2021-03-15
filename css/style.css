@@ -12,3 +12,32 @@
     background-size: 200px;
     background-position: 1% 75%;
 }
+
+.evidenziato {
+    background-color: #FFFF00 ;
+}
+
+th {
+    width: 250px;
+    color: white;
+}
+
+.riga-azzurra {
+    background-color: #B1E5F2;
+}
+
+.terza-cella {
+    width: 500px;
+}
+
+* {
+    text-align: left;
+}
+
+body {
+    width: 1010px;
+}
+
+#riga1 {
+    background-color: #20A9E5;
+}
