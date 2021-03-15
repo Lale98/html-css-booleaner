@@ -1,3 +1,10 @@
+* {
+    text-align: left;
+}
+body {
+    width: 1010px;
+}
+
 #testata {
     height: 100px;
     background-color: #4EA0FF ;
@@ -30,14 +37,24 @@ th {
     width: 500px;
 }
 
-* {
-    text-align: left;
-}
-
-body {
-    width: 1010px;
-}
-
 #riga1 {
     background-color: #20A9E5;
+}
+
+#consiglio1 {
+    height: 200px;
+    width: 250px;
+    background-image: url("img/monitor.jpg");
+    background-size: cover;
+    color: white;
+    font-size: 24px;
+}
+
+#consiglio2 {
+    height: 200px;
+    width: 250px;
+    background-image: url("img/graph.jpg");
+    background-size: cover;
+    color: white;
+    font-size: 24px;
 }
